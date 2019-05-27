@@ -5,3 +5,4 @@ document.write("Mensaje desde fichero externo");//se muestra al inicio de la pá
 
 console.log("mostrar este mensaje en la consola"); //para mostrar msjs en la consola
 console.log(88+4);
+
